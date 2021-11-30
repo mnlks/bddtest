@@ -7,7 +7,7 @@ public class Paliandrome {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 String original, reverse = ""; // Objects of String class 
-		 System.out.println("Paliandrome Program");
+		 System.out.println("Paliandrome Program - kalai");
 	      Scanner in = new Scanner(System.in);   
 	      System.out.println("Enter a string/number to check if it is a palindrome");  
 	      original = in.nextLine();   
