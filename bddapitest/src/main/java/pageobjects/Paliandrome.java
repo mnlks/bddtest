@@ -6,6 +6,7 @@ public class Paliandrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Enter a string/number to check if it is a palindrome ks");  
 		 String original, reverse = ""; // Objects of String class 
 		 System.out.println("Paliandrome Program - kalai test2");
 	      Scanner in = new Scanner(System.in);   
